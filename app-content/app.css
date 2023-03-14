@@ -1,0 +1,7 @@
+﻿a {
+    cursor: pointer;
+}
+
+html, body, .jumbotron {
+    height: 100%;
+}
